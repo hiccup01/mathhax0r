@@ -2,8 +2,8 @@
 // @name        Math h4X0r
 // @namespace   http://hiccup01.com
 // @description Shreks prototec maths
-// @include     http*://*.prototec.co.nz/maths.html
-// @version     3.2
+// @include     http*://maths.prototec.co.nz
+// @version     3.3
 // @grant       GM_registerMenuCommand
 // ==/UserScript==
 'use strict';
